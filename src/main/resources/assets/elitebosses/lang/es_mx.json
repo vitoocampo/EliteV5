@@ -1,0 +1,19 @@
+{
+  "entity.elitebosses.chocolate": "Chocolate",
+  "item.elitebosses.chocolate_spawn_egg": "Huevo generador de Chocolate",
+  "entity.elitebosses.houndmaster": "Sabueso",
+  "item.elitebosses.houndmaster_spawn_egg": "Huevo generador de Sabueso",
+  "entity.elitebosses.stalker": "Stalker",
+  "item.elitebosses.stalker_spawn_egg": "Huevo generador de Stalker",
+  "item.elitebosses.vitos_blessing": "Angel Guardian",
+  "item.elitebosses.survival_manual": "Manual de Supervivencia",
+  "item.elitebosses.black_fate_totem": "Totem BlackFate",
+  "effect.elitebosses.obsession": "Obsesión",
+  "effect.elitebosses.brine": "Salmuera",
+  "effect.elitebosses.velo_diurno": "Velo Diurno",
+  "entity.elitebosses.judge": "El Juicio",
+  "item.elitebosses.judge_spawn_egg": "Huevo generador de El Juicio",
+  "entity.elitebosses.judge_beam": "Luz del Juicio",
+  "message.elitebosses.judge_defeated": "El Juicio ha caído. Tu condena se ha levantado.",
+  "itemGroup.elitebosses": "Elite Bosses"
+}

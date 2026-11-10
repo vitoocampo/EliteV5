@@ -1,0 +1,19 @@
+{
+  "entity.elitebosses.chocolate": "Chocolate",
+  "item.elitebosses.chocolate_spawn_egg": "Chocolate Spawn Egg",
+  "entity.elitebosses.houndmaster": "Houndmaster",
+  "item.elitebosses.houndmaster_spawn_egg": "Houndmaster Spawn Egg",
+  "entity.elitebosses.stalker": "Stalker",
+  "item.elitebosses.stalker_spawn_egg": "Stalker Spawn Egg",
+  "item.elitebosses.vitos_blessing": "Angel Guardian",
+  "item.elitebosses.survival_manual": "Survival Manual",
+  "item.elitebosses.black_fate_totem": "Totem BlackFate",
+  "effect.elitebosses.obsession": "Obsesión",
+  "effect.elitebosses.brine": "Salmuera",
+  "effect.elitebosses.velo_diurno": "Velo Diurno",
+  "entity.elitebosses.judge": "The Judgment",
+  "item.elitebosses.judge_spawn_egg": "The Judgment Spawn Egg",
+  "entity.elitebosses.judge_beam": "Light of Judgment",
+  "message.elitebosses.judge_defeated": "The Judgment has fallen. Your sentence is lifted.",
+  "itemGroup.elitebosses": "Elite Bosses"
+}
